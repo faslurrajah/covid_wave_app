@@ -19,10 +19,13 @@ Covid19 Dashboard With Random Data
 
 
 Large Viewpoint 
-    ![xl breakpoint](https://tlgur.com/d/8e0xmwN4)
+
+![xl breakpoint](https://tlgur.com/d/8e0xmwN4)
 
 Medium Viewpoint
-    ![m breakpoint](https://tlgur.com/d/GdX03yrG)
+
+![m breakpoint](https://tlgur.com/d/GdX03yrG)
 
 Small Viewpoint
-    ![s breakpoint](https://tlgur.com/d/GZ3PlkOg)
+
+![s breakpoint](https://tlgur.com/d/GZ3PlkOg)
