@@ -17,15 +17,12 @@ Covid19 Dashboard With Random Data
  - For sample data, I used CPU usage and memory usage and visualized with graph.
  - Page is routed in /covid.
 
-## Find some attachments here
-
-
 
  - Large Viewpoint 
- ![xl breakpoint](https://tlgur.com/d/8e0xmwN4)
+    ![xl breakpoint](https://tlgur.com/d/8e0xmwN4)
 
-- Medium Viewpoint
-![m breakpoint](https://tlgur.com/d/GdX03yrG)
+ - Medium Viewpoint
+    ![m breakpoint](https://tlgur.com/d/GdX03yrG)
 
-- Small Viewpoint
-![s breakpoint](https://tlgur.com/d/GZ3PlkOg)
+ - Small Viewpoint
+    ![s breakpoint](https://tlgur.com/d/GZ3PlkOg)
