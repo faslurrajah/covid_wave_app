@@ -18,11 +18,11 @@ Covid19 Dashboard With Random Data
  - Page is routed in /covid.
 
 
- - Large Viewpoint 
+Large Viewpoint 
     ![xl breakpoint](https://tlgur.com/d/8e0xmwN4)
 
- - Medium Viewpoint
+Medium Viewpoint
     ![m breakpoint](https://tlgur.com/d/GdX03yrG)
 
- - Small Viewpoint
+Small Viewpoint
     ![s breakpoint](https://tlgur.com/d/GZ3PlkOg)
